@@ -5,7 +5,7 @@ author: Zadid
 date: 2023-03-02 07:02:20 +0300
 image: assets/images/banner.png
 ---
-We are excited to share that the participants for this year are:
+We are excited to share that the participants for these following years:
 <ol>
   <li>2021</li>
   <li>2022</li>
