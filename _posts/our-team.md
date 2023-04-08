@@ -9,5 +9,5 @@ We are excited to share that the participants for this year are:
 <ol>
   <li>2021</li>
   <li>2022</li>
-  <li><a>2023</a></li>
+  <li><a href="{{site.baseurl}}/pages/2023-participants.html">2023</a></li>
 </ol> 
