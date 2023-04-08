@@ -6,7 +6,7 @@ background: '/img/bg-index.jpg'
 
 
 <section class="row">         
-    <div class="col-md-4 mb-5">
+    <div class="col-md-4 mb-5 flex">
       <img src="{{site.baseurl}}/assets/images/saniva_rakib_soha.jpg"> 
       <img src="{{site.baseurl}}/assets/images/nujhat_ahmed_disha.jpg"> 
       <img src="{{site.baseurl}}/assets/images/arifa_alam.jpg"> 
