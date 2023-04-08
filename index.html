@@ -24,14 +24,20 @@ background: '/img/bg-index.jpg'
 <!-- Featured
 ================================================== -->
 <section class="row">
-  {% for post in site.posts %}
-      {% if post.featured == true %}
-          <div class="col-md-4 mb-5">
-          {% include postbox.html %}
+<!--   {% for post in site.posts %}
+      {% if post.featured == true %} -->
+         
+    <div class="col-md-4 mb-5">
+    <img class="intro" height="500" src="{{site.baseurl}}/assets/images/saniva_rakib_soha.jpg"> 
+    <img class="intro" height="500" src="{{site.baseurl}}/assets/images/nujhat_ahmed_disha.jpg"> 
+    <img class="intro" height="500" src="{{site.baseurl}}/assets/images/arifa_alam.jpg"> 
+    <img class="intro" height="500" src="{{site.baseurl}}/assets/images/afsana_akter.jpg"> 
+<!--{% include postbox.html %} -->
           </div>
-      {% endif %}
-  {% endfor %}
-  </div>
+<!--{% endif %}
+  {% endfor %} -->
+  
+
 </section>
 
 <!-- Posts List with Sidebar (except featured)
